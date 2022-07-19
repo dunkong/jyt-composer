@@ -1,0 +1,19 @@
+{
+    "name": "jyt/commposer",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jyt\\Commposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dunkong",
+            "email": "862391059@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
