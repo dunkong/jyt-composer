@@ -1,6 +1,6 @@
 <?php
 
-namespace Jyt\commposer;
+namespace Jyt\Commposer;
 
 class Testapp
 {
